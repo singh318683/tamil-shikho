@@ -1,0 +1,21 @@
+{
+  "name": "tamil-shikho-ios",
+  "version": "1.0.0",
+  "private": true,
+  "description": "iOS wrapper (Capacitor) for the Tamil Shikho web app",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "build:www": "node scripts/build-www.js",
+    "add:ios": "node scripts/build-www.js && npx cap add ios && node scripts/patch-ios.js && npx capacitor-assets generate --ios",
+    "sync": "node scripts/build-www.js && npx cap sync ios",
+    "open": "npx cap open ios"
+  },
+  "dependencies": {
+    "@capacitor/core": "^8.5.2",
+    "@capacitor/ios": "^8.5.2"
+  },
+  "devDependencies": {
+    "@capacitor/assets": "^3.0.5",
+    "@capacitor/cli": "^8.5.2"
+  }
+}

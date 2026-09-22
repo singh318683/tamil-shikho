@@ -1,0 +1,446 @@
+[
+  {
+    "te": "வணக்கம்",
+    "rom": "vanakkam"
+  },
+  {
+    "te": "எப்படி இருக்கீங்க?",
+    "rom": "eppadi irukkeenga?"
+  },
+  {
+    "te": "நான் நல்லா இருக்கேன்",
+    "rom": "naan nallaa irukken"
+  },
+  {
+    "te": "நன்றி",
+    "rom": "nandri"
+  },
+  {
+    "te": "போய் வாறேன்",
+    "rom": "poi vaaren"
+  },
+  {
+    "te": "இங்க பாருங்க",
+    "rom": "inga paarunga"
+  },
+  {
+    "te": "காலை வணக்கம்",
+    "rom": "kaalai vanakkam"
+  },
+  {
+    "te": "இரவு வணக்கம்",
+    "rom": "iravu vanakkam"
+  },
+  {
+    "te": "மன்னிக்கவும்",
+    "rom": "mannikkavum"
+  },
+  {
+    "te": "பரவாயில்லை",
+    "rom": "paravaayillai"
+  },
+  {
+    "te": "ஆமாம்",
+    "rom": "aamaam"
+  },
+  {
+    "te": "இல்லை",
+    "rom": "illai"
+  },
+  {
+    "te": "இருக்கலாம்",
+    "rom": "irukkalaam"
+  },
+  {
+    "te": "எனக்குத் தெரியாது",
+    "rom": "enakku theriyaadhu"
+  },
+  {
+    "te": "சரி",
+    "rom": "sari"
+  },
+  {
+    "te": "எல்லாம் சரி",
+    "rom": "ellaam sari"
+  },
+  {
+    "te": "உங்க பேரு என்ன?",
+    "rom": "unga peru enna?"
+  },
+  {
+    "te": "என் பேரு ராஜ்",
+    "rom": "en peru Raj"
+  },
+  {
+    "te": "நீங்க எங்க இருக்கீங்க?",
+    "rom": "neenga enga irukkeenga?"
+  },
+  {
+    "te": "நான் அமெரிக்காவுல இருக்கேன்",
+    "rom": "naan Amerikaavula irukken"
+  },
+  {
+    "te": "உங்களை சந்திச்சது சந்தோஷம்",
+    "rom": "ungalai sandhichadhu sandhosham"
+  },
+  {
+    "te": "எனக்கு புரியல",
+    "rom": "enakku puriyala"
+  },
+  {
+    "te": "திரும்பச் சொல்லுங்க",
+    "rom": "thirumbach chollunga"
+  },
+  {
+    "te": "மெதுவா பேசுங்க",
+    "rom": "meduvaa pesunga"
+  },
+  {
+    "te": "இதை தமிழ்ல எப்படி சொல்றது?",
+    "rom": "idhai Tamilla eppadi sollaradhu?"
+  },
+  {
+    "te": "எனக்கு கொஞ்சம் தமிழ் தெரியும்",
+    "rom": "enakku konjam Tamil theriyum"
+  },
+  {
+    "te": "உங்களுக்கு தமிழ் தெரியுமா?",
+    "rom": "ungalukku Tamil theriyumaa?"
+  },
+  {
+    "te": "அம்மா",
+    "rom": "ammaa"
+  },
+  {
+    "te": "அப்பா",
+    "rom": "appaa"
+  },
+  {
+    "te": "அண்ணன்",
+    "rom": "annan"
+  },
+  {
+    "te": "அக்கா",
+    "rom": "akkaa"
+  },
+  {
+    "te": "குடும்பம்",
+    "rom": "kudumbam"
+  },
+  {
+    "te": "தாத்தா",
+    "rom": "thaathaa"
+  },
+  {
+    "te": "பாட்டி",
+    "rom": "paatti"
+  },
+  {
+    "te": "பெரியப்பா",
+    "rom": "periyappaa"
+  },
+  {
+    "te": "சித்தப்பா",
+    "rom": "sithappaa"
+  },
+  {
+    "te": "அத்தை",
+    "rom": "aththai"
+  },
+  {
+    "te": "மாமா",
+    "rom": "maamaa"
+  },
+  {
+    "te": "சித்தி",
+    "rom": "sithi"
+  },
+  {
+    "te": "பெரியம்மா",
+    "rom": "periyammaa"
+  },
+  {
+    "te": "இவன் என் அண்ணன்",
+    "rom": "ivan en annan"
+  },
+  {
+    "te": "இவள் என் அக்கா",
+    "rom": "ival en akkaa"
+  },
+  {
+    "te": "இவள் என் அம்மா",
+    "rom": "ival en ammaa"
+  },
+  {
+    "te": "இவன் என் அப்பா",
+    "rom": "ivan en appaa"
+  },
+  {
+    "te": "உங்க குடும்பத்துல யாரு யாரு இருக்காங்க?",
+    "rom": "unga kudumbaththula yaaru yaaru irukkaanga?"
+  },
+  {
+    "te": "எங்க குடும்பத்துல நாலு பேர் இருக்காங்க",
+    "rom": "enga kudumbaththula naalu per irukkaanga"
+  },
+  {
+    "te": "ஒன்று",
+    "rom": "ondru"
+  },
+  {
+    "te": "இரண்டு",
+    "rom": "irandu"
+  },
+  {
+    "te": "மூன்று",
+    "rom": "moondru"
+  },
+  {
+    "te": "நான்கு",
+    "rom": "naangu"
+  },
+  {
+    "te": "ஐந்து",
+    "rom": "ainthu"
+  },
+  {
+    "te": "ஆறு",
+    "rom": "aaru"
+  },
+  {
+    "te": "ஏழு",
+    "rom": "ezhu"
+  },
+  {
+    "te": "எட்டு",
+    "rom": "ettu"
+  },
+  {
+    "te": "ஒன்பது",
+    "rom": "onbathu"
+  },
+  {
+    "te": "பத்து",
+    "rom": "pathu"
+  },
+  {
+    "te": "திங்கள்கிழமை",
+    "rom": "thingatkizhamai"
+  },
+  {
+    "te": "செவ்வாய்க்கிழமை",
+    "rom": "sevvaaikizhamai"
+  },
+  {
+    "te": "புதன்கிழமை",
+    "rom": "budhankizhamai"
+  },
+  {
+    "te": "வியாழக்கிழமை",
+    "rom": "viyaazhakkizhamai"
+  },
+  {
+    "te": "வெள்ளிக்கிழமை",
+    "rom": "vellikizhamai"
+  },
+  {
+    "te": "சனிக்கிழமை",
+    "rom": "sanikizhamai"
+  },
+  {
+    "te": "ஞாயிற்றுக்கிழமை",
+    "rom": "gnaayitrukizhamai"
+  },
+  {
+    "te": "தண்ணீர்",
+    "rom": "thanneer"
+  },
+  {
+    "te": "தேநீர்",
+    "rom": "thaneer"
+  },
+  {
+    "te": "பால்",
+    "rom": "paal"
+  },
+  {
+    "te": "சாதம்",
+    "rom": "saadham"
+  },
+  {
+    "te": "பருப்பு",
+    "rom": "paruppu"
+  },
+  {
+    "te": "ரொட்டி",
+    "rom": "rotti"
+  },
+  {
+    "te": "எனக்கு பசிக்குது",
+    "rom": "enakku pasikkudhu"
+  },
+  {
+    "te": "எனக்கு தாகமா இருக்கு",
+    "rom": "enakku thaagamaa irukku"
+  },
+  {
+    "te": "சாப்பாடு தயார்",
+    "rom": "saapaadu thayaar"
+  },
+  {
+    "te": "வர்றேன்",
+    "rom": "varren"
+  },
+  {
+    "te": "வாங்க சாப்பிடலாம்",
+    "rom": "vaanga saapidalaam"
+  },
+  {
+    "te": "எனக்கு கொஞ்சம் தண்ணீர் வேணும்",
+    "rom": "enakku konjam thanneer vENum"
+  },
+  {
+    "te": "கொஞ்சம் அதிகமா",
+    "rom": "konjam adhigamaa"
+  },
+  {
+    "te": "போதும், நன்றி",
+    "rom": "podhum, nandri"
+  },
+  {
+    "te": "இது ரொம்ப சுவையா இருக்கு",
+    "rom": "idhu romba suvaiyaa irukku"
+  },
+  {
+    "te": "நீங்க சாப்பிட்டீங்களா?",
+    "rom": "neenga saapittingalaa?"
+  },
+  {
+    "te": "இது என்ன?",
+    "rom": "idhu enna?"
+  },
+  {
+    "te": "எவ்வளவு விலை?",
+    "rom": "evvalavu vilai?"
+  },
+  {
+    "te": "பத்து ரூபாய்",
+    "rom": "pathu roobaai"
+  },
+  {
+    "te": "ரொம்ப விலை அதிகம்",
+    "rom": "romba vilai adhigam"
+  },
+  {
+    "te": "கொஞ்சம் குறையுங்க",
+    "rom": "konjam kuraiyunga"
+  },
+  {
+    "te": "எனக்கு இது வேணும்",
+    "rom": "enakku idhu vENum"
+  },
+  {
+    "te": "வேற ஒண்ணு காட்டுங்க",
+    "rom": "vera onnu kaattunga"
+  },
+  {
+    "te": "எங்க இருக்கு?",
+    "rom": "enga irukku?"
+  },
+  {
+    "te": "இங்க வாங்க",
+    "rom": "inga vaanga"
+  },
+  {
+    "te": "நேரா போங்க",
+    "rom": "neraa ponga"
+  },
+  {
+    "te": "இடது பக்கம்",
+    "rom": "idadhu pakkam"
+  },
+  {
+    "te": "வலது பக்கம்",
+    "rom": "valadhu pakkam"
+  },
+  {
+    "te": "இங்க நிறுத்துங்க",
+    "rom": "inga niruthunga"
+  },
+  {
+    "te": "ரொம்ப நல்லா இருக்கு",
+    "rom": "romba nallaa irukku"
+  },
+  {
+    "te": "எனக்கு ரொம்ப சந்தோஷமா இருந்தது",
+    "rom": "enakku romba sandhoshamaa irundhadhu"
+  },
+  {
+    "te": "எனக்கு பிடிச்சிருக்கு",
+    "rom": "enakku pudichirukku"
+  },
+  {
+    "te": "கவலைப்படாதீங்க",
+    "rom": "kavalaippadaadheenga"
+  },
+  {
+    "te": "ஆஹா!",
+    "rom": "aahaa!"
+  },
+  {
+    "te": "இனிய தமிழ் புத்தாண்டு நல்வாழ்த்துக்கள்",
+    "rom": "iniya Tamil puthaandu nalvaazhthukkal"
+  },
+  {
+    "te": "இனிய பொங்கல் நல்வாழ்த்துக்கள்",
+    "rom": "iniya Pongal nalvaazhthukkal"
+  },
+  {
+    "te": "இனிய தீபாவளி நல்வாழ்த்துக்கள்",
+    "rom": "iniya Deepaavali nalvaazhthukkal"
+  },
+  {
+    "te": "இனிய பிறந்தநாள் நல்வாழ்த்துக்கள்",
+    "rom": "iniya piranthanaal nalvaazhthukkal"
+  },
+  {
+    "te": "இனிய புத்தாண்டு நல்வாழ்த்துக்கள்",
+    "rom": "iniya puthaandu nalvaazhthukkal"
+  },
+  {
+    "te": "பொங்கல்",
+    "rom": "Pongal"
+  },
+  {
+    "te": "கோலம்",
+    "rom": "kolam"
+  },
+  {
+    "te": "சர்க்கரைப் பொங்கல்",
+    "rom": "sarkkarai Pongal"
+  },
+  {
+    "te": "மாட்டுப்பொங்கல்",
+    "rom": "maattu Pongal"
+  },
+  {
+    "te": "உழவர் திருநாள்",
+    "rom": "uzhavar thirunaal"
+  },
+  {
+    "te": "தீபாவளி",
+    "rom": "Deepaavali"
+  },
+  {
+    "te": "கார்த்திகை தீபம்",
+    "rom": "Kaarthigai Deepam"
+  },
+  {
+    "te": "ஆரத்தி",
+    "rom": "aarathi"
+  },
+  {
+    "te": "வாங்க தீபாவளி கொண்டாடலாம்",
+    "rom": "vaanga Deepaavali kondaadalaam"
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "appId": "com.ikshana.tamilshikho",
+  "appName": "Tamil Shikho",
+  "webDir": "www",
+  "backgroundColor": "#F5F1E8",
+  "ios": {
+    "contentInset": "always"
+  }
+}

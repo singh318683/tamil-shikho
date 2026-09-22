@@ -1,0 +1,392 @@
+/* Fonts are bundled with the app (no Google Fonts request). Baloo Thambi 2 and Hind Madurai are open-source (SIL Open Font License). */
+@font-face {
+  font-family: 'Baloo Thambi 2';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: url(fonts/baloo-thambi-2-tamil-500-normal.woff2) format('woff2');
+  unicode-range: U+0964-0965,U+0B82-0BFA,U+200C-200D,U+20B9,U+25CC;
+}
+@font-face {
+  font-family: 'Baloo Thambi 2';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: url(fonts/baloo-thambi-2-latin-500-normal.woff2) format('woff2');
+  unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;
+}
+@font-face {
+  font-family: 'Baloo Thambi 2';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url(fonts/baloo-thambi-2-tamil-700-normal.woff2) format('woff2');
+  unicode-range: U+0964-0965,U+0B82-0BFA,U+200C-200D,U+20B9,U+25CC;
+}
+@font-face {
+  font-family: 'Baloo Thambi 2';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url(fonts/baloo-thambi-2-latin-700-normal.woff2) format('woff2');
+  unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;
+}
+@font-face {
+  font-family: 'Baloo Thambi 2';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src: url(fonts/baloo-thambi-2-tamil-800-normal.woff2) format('woff2');
+  unicode-range: U+0964-0965,U+0B82-0BFA,U+200C-200D,U+20B9,U+25CC;
+}
+@font-face {
+  font-family: 'Baloo Thambi 2';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 800;
+  src: url(fonts/baloo-thambi-2-latin-800-normal.woff2) format('woff2');
+  unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;
+}
+@font-face {
+  font-family: 'Hind Madurai';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(fonts/hind-madurai-tamil-400-normal.woff2) format('woff2');
+  unicode-range: U+0964-0965,U+0B82-0BFA,U+200C-200D,U+20B9,U+25CC;
+}
+@font-face {
+  font-family: 'Hind Madurai';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(fonts/hind-madurai-latin-400-normal.woff2) format('woff2');
+  unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;
+}
+@font-face {
+  font-family: 'Hind Madurai';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: url(fonts/hind-madurai-tamil-500-normal.woff2) format('woff2');
+  unicode-range: U+0964-0965,U+0B82-0BFA,U+200C-200D,U+20B9,U+25CC;
+}
+@font-face {
+  font-family: 'Hind Madurai';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: url(fonts/hind-madurai-latin-500-normal.woff2) format('woff2');
+  unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;
+}
+@font-face {
+  font-family: 'Hind Madurai';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src: url(fonts/hind-madurai-tamil-600-normal.woff2) format('woff2');
+  unicode-range: U+0964-0965,U+0B82-0BFA,U+200C-200D,U+20B9,U+25CC;
+}
+@font-face {
+  font-family: 'Hind Madurai';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src: url(fonts/hind-madurai-latin-600-normal.woff2) format('woff2');
+  unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;
+}
+@font-face {
+  font-family: 'Hind Madurai';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url(fonts/hind-madurai-tamil-700-normal.woff2) format('woff2');
+  unicode-range: U+0964-0965,U+0B82-0BFA,U+200C-200D,U+20B9,U+25CC;
+}
+@font-face {
+  font-family: 'Hind Madurai';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url(fonts/hind-madurai-latin-700-normal.woff2) format('woff2');
+  unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;
+}
+
+/* Tamil Shikho. Palette comes from Kanjeevaram silk and Chettinad tiles:
+   temple-red maroon, gold zari thread, indigo, and undyed cotton. */
+:root {
+  --maroon: #7A1F2B;
+  --maroon-deep: #571620;
+  --indigo: #2B3F87;
+  --indigo-tint: #DEE3F5;
+  --turmeric: #E6B325;
+  --turmeric-deep: #B8860B;
+  --turmeric-tint: #FBEFCF;
+  --cotton: #F5F1E8;
+  --ink: #241417;
+  --muted: #7C6E71;
+  --rule: #E3D5D2;
+  --leaf: #2E7D6B;
+  --leaf-deep: #1F5C4E;
+  --leaf-tint: #DCEFE9;
+  --font-ui: 'Hind Madurai', 'Noto Sans Tamil', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --font-ta: 'Baloo Thambi 2', 'Hind Madurai', 'Noto Sans Tamil', system-ui, sans-serif;
+  --dots: radial-gradient(circle, rgba(255,255,255,.5) 1.5px, transparent 2.2px) 0 0 / 16px 16px,
+          radial-gradient(circle, rgba(255,255,255,.5) 1.5px, transparent 2.2px) 8px 8px / 16px 16px;
+}
+
+* { box-sizing: border-box; }
+html, body { margin: 0; }
+body {
+  font-family: var(--font-ui);
+  font-size: 17px;
+  line-height: 1.5;
+  color: var(--ink);
+  background: var(--dots), var(--maroon-deep);
+  -webkit-tap-highlight-color: transparent;
+}
+#app {
+  max-width: 480px;
+  min-height: 100vh;
+  min-height: 100dvh;
+  margin: 0 auto;
+  background: var(--cotton);
+  position: relative;
+}
+@media (min-width: 520px) {
+  #app { box-shadow: 0 0 0 4px var(--turmeric), 0 0 60px rgba(0,0,0,.35); }
+}
+.ta { font-family: var(--font-ta); }
+h1, h2, h3, p { margin: 0; }
+button { font-family: inherit; }
+:focus-visible { outline: 3px solid var(--indigo); outline-offset: 3px; }
+
+/* ---------- buttons ---------- */
+.btn {
+  font: 600 18px/1.2 var(--font-ui);
+  background: var(--turmeric);
+  color: var(--ink);
+  border: 0;
+  border-radius: 14px;
+  padding: 14px 22px;
+  min-height: 52px;
+  cursor: pointer;
+  box-shadow: 0 4px 0 var(--turmeric-deep);
+}
+.btn:active:not(:disabled) { transform: translateY(3px); box-shadow: 0 1px 0 var(--turmeric-deep); }
+.btn:disabled { background: #E4DAD6; color: #9A8C8E; box-shadow: 0 4px 0 #C9BBB7; cursor: default; }
+.btn.wide { width: 100%; }
+.btn.ghost { background: #fff; color: var(--maroon); border: 2px solid var(--maroon); box-shadow: 0 4px 0 var(--maroon); }
+.btn.ghost:active:not(:disabled) { box-shadow: 0 1px 0 var(--maroon); }
+.link {
+  background: none; border: 0; padding: 6px 0; color: var(--maroon);
+  font: 600 16px var(--font-ui); text-decoration: underline; cursor: pointer; text-align: left;
+}
+.link.danger { color: var(--indigo); }
+
+/* ---------- block-print tile: the one memorable object ---------- */
+.tile {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: #fff;
+  color: var(--maroon);
+  border: 3px solid var(--maroon);
+  border-radius: 8px;
+  font-family: var(--font-ta);
+  font-weight: 700;
+  line-height: 1;
+  text-align: center;
+  max-width: 100%;
+  overflow-wrap: anywhere;
+}
+.tile::after {
+  content: '';
+  position: absolute;
+  inset: 6px;
+  border: 2px dotted var(--turmeric);
+  border-radius: 4px;
+  pointer-events: none;
+}
+.tile.big { width: 190px; height: 190px; font-size: 104px; }
+.tile.md  { padding: 40px 44px; font-size: 68px; min-width: 190px; }
+.tile.sm  { padding: 38px 36px; font-size: 48px; }
+.tile.xs  { padding: 38px 30px; font-size: 34px; line-height: 1.25; }
+.tile.mini { width: 64px; height: 64px; font-size: 28px; border-width: 2px; flex: none; }
+.tile.mini::after { inset: 4px; border-width: 1.5px; }
+.tile.mini.long { font-size: 20px; }
+.stamp { animation: stamp .28s ease-out; }
+@keyframes stamp { from { transform: scale(1.12) rotate(-2deg); opacity: .4; } to { transform: none; opacity: 1; } }
+
+/* ---------- home ---------- */
+.hero {
+  background: var(--dots), var(--maroon);
+  color: #fff;
+  padding: calc(18px + env(safe-area-inset-top)) 22px 64px;
+  border-radius: 0 0 26px 26px;
+}
+.stats { display: flex; gap: 8px; justify-content: flex-end; }
+.pill { background: rgba(255,255,255,.16); border-radius: 99px; padding: 3px 13px; font-weight: 600; font-size: 15px; }
+.wordmark { font: 800 68px/1.15 var(--font-ta); color: var(--turmeric); margin-top: 6px; }
+.hero-sub { color: #EEDFDB; max-width: 30ch; }
+
+.home-body { padding: 0 18px 32px; }
+.resume {
+  display: flex; align-items: center; gap: 14px;
+  background: #fff; border: 2px solid var(--maroon); border-radius: 12px;
+  padding: 14px; margin-top: -38px; box-shadow: 0 4px 0 var(--maroon);
+}
+.resume-text { flex: 1; min-width: 0; }
+.resume h2 { font: 700 19px/1.25 var(--font-ui); }
+.resume p { color: var(--muted); font-size: 15px; }
+.resume .btn { padding: 12px 18px; }
+.resume.finished { display: block; }
+
+.note {
+  margin-top: 16px; padding: 12px 14px; border-radius: 10px;
+  background: var(--turmeric-tint); border: 1px solid var(--turmeric); font-size: 15px;
+}
+
+.level { margin-top: 30px; }
+.level h2 { font: 800 26px/1.2 var(--font-ta); color: var(--maroon); }
+.level-sub { color: var(--muted); font-size: 15px; }
+.trail { list-style: none; margin: 16px 0 0; padding: 0; position: relative; }
+.trail::before {
+  content: ''; position: absolute; left: 27px; top: 26px; bottom: 26px;
+  border-left: 4px dotted var(--rule);
+}
+.trail li { position: relative; }
+.stop {
+  display: flex; align-items: center; gap: 14px; width: 100%;
+  background: none; border: 0; padding: 8px 0; text-align: left; color: inherit; cursor: pointer;
+}
+.stop:disabled { cursor: default; }
+.badge {
+  position: relative; z-index: 1; flex: none;
+  width: 56px; height: 56px; border-radius: 50%;
+  display: grid; place-items: center;
+  font: 700 24px/1 var(--font-ta);
+  background: #fff; color: var(--maroon); border: 3px solid var(--maroon);
+}
+.badge.long { font-size: 17px; }
+.stop.current .badge { background: var(--turmeric); border-color: var(--turmeric-deep); color: var(--ink); box-shadow: 0 0 0 5px var(--turmeric-tint); }
+.stop.done .badge { background: var(--maroon); color: #fff; }
+.stop.done .badge::after {
+  content: '✓'; position: absolute; right: -4px; bottom: -4px; width: 22px; height: 22px; border-radius: 50%;
+  background: var(--leaf); color: #fff; font: 700 13px/22px var(--font-ui); text-align: center; border: 2px solid var(--cotton);
+}
+.stop.locked .badge { background: #ECE4E1; border-color: var(--rule); color: #A6989A; font-size: 20px; }
+.stop-title { display: block; font-weight: 700; font-size: 18px; line-height: 1.3; }
+.stop-sub { display: block; color: var(--muted); font-size: 14px; }
+.stop.locked .stop-title { color: var(--muted); }
+
+.tools { margin-top: 36px; border-top: 2px solid var(--rule); padding-top: 14px; }
+.tools summary { cursor: pointer; font-weight: 600; color: var(--muted); }
+.tools > * { margin-top: 10px; }
+.check { display: flex; gap: 10px; align-items: center; font-size: 16px; }
+.check input { width: 20px; height: 20px; accent-color: var(--maroon); }
+.tools a.link { display: block; }
+
+/* ---------- lesson ---------- */
+.lesson { display: flex; flex-direction: column; min-height: 100vh; min-height: 100dvh; }
+.top { display: flex; align-items: center; gap: 10px; padding: calc(10px + env(safe-area-inset-top)) 14px 6px; }
+.x { border: 0; background: none; width: 44px; height: 44px; font-size: 22px; color: var(--muted); cursor: pointer; border-radius: 50%; }
+.bar { flex: 1; height: 12px; background: var(--rule); border-radius: 99px; overflow: hidden; }
+.bar i { display: block; height: 100%; background: var(--turmeric); border-radius: 99px; transition: width .25s; }
+.stage { flex: 1; padding: 18px 20px 24px; display: flex; flex-direction: column; align-items: center; gap: 12px; text-align: center; }
+.count { color: var(--muted); font-size: 15px; }
+.rom { font: 700 30px/1.2 var(--font-ui); color: var(--indigo); }
+.extra { font-size: 40px; color: var(--maroon); line-height: 1; }
+.mean { font-size: 20px; max-width: 26ch; }
+.ex { color: var(--muted); font-size: 16px; }
+.ex .ta { color: var(--ink); font-size: 20px; }
+.tip { background: var(--turmeric-tint); border-left: 5px solid var(--turmeric); border-radius: 6px; padding: 10px 14px; text-align: left; font-size: 16px; margin-top: 6px; max-width: 40ch; }
+.listen { padding: 10px 26px; min-height: 46px; font-size: 17px; }
+.listen::before { content: '🔊  '; }
+
+.quiz { flex: 1; padding: 12px 18px 24px; display: flex; flex-direction: column; gap: 18px; align-items: center; }
+.prompt { font: 700 22px/1.3 var(--font-ui); text-align: center; }
+.ask { font: 700 34px/1.25 var(--font-ui); text-align: center; padding: 6px 0; }
+.hint-rom { color: var(--muted); font-size: 18px; }
+.opts { display: grid; gap: 12px; width: 100%; margin-top: auto; }
+.opts.g2 { grid-template-columns: 1fr 1fr; }
+.opt {
+  background: #fff; color: var(--ink); border: 2px solid var(--rule); border-radius: 12px;
+  padding: 14px 10px; min-height: 64px; font: 600 20px/1.3 var(--font-ui);
+  box-shadow: 0 3px 0 var(--rule); cursor: pointer;
+}
+.opt.ta { font: 600 34px/1.2 var(--font-ta); }
+.opt:hover:not(:disabled) { border-color: var(--maroon); }
+.opt:disabled { cursor: default; opacity: .55; }
+.opt.right { opacity: 1; background: var(--leaf-tint); border-color: var(--leaf); box-shadow: 0 3px 0 var(--leaf); }
+.opt.wrong { opacity: 1; background: var(--indigo-tint); border-color: var(--indigo); box-shadow: 0 3px 0 var(--indigo); }
+
+.dock {
+  position: sticky; bottom: 0; display: grid; gap: 10px;
+  background: #fff; border-top: 2px solid var(--rule);
+  padding: 14px 18px calc(14px + env(safe-area-inset-bottom));
+}
+.dock.good { background: var(--leaf-tint); border-color: var(--leaf); }
+.dock.bad { background: var(--indigo-tint); border-color: var(--indigo); }
+.dock.good .btn { background: var(--leaf); color: #fff; box-shadow: 0 4px 0 var(--leaf-deep); }
+.dock.bad .btn { background: var(--indigo); color: #fff; box-shadow: 0 4px 0 #1C2A5C; }
+.fb { font-size: 17px; }
+.fb strong { display: block; font-size: 20px; }
+.dock.good .fb { color: var(--leaf-deep); }
+.dock.bad .fb { color: #1C2A5C; }
+.fb .ta { font-size: 22px; }
+.dock.row { grid-template-columns: 1fr 1fr; }
+
+.result { justify-content: center; }
+.result h1 { font: 800 32px/1.2 var(--font-ta); color: var(--maroon); }
+.xp { font: 700 22px var(--font-ui); color: var(--turmeric-deep); }
+
+/* ---------- content review ---------- */
+.rv { padding: calc(16px + env(safe-area-inset-top)) 16px 40px; }
+.rv h1 { font: 800 28px/1.2 var(--font-ta); color: var(--maroon); margin-bottom: 6px; }
+.rv p { color: var(--muted); font-size: 15px; margin-bottom: 12px; }
+.rv-actions { display: flex; gap: 10px; flex-wrap: wrap; margin: 14px 0 6px; }
+.rv-actions .btn { min-height: 44px; padding: 8px 16px; font-size: 16px; }
+.rv h2 { font: 700 17px var(--font-ui); margin: 22px 0 6px; }
+.rv-scroll { overflow-x: auto; border: 1px solid var(--rule); border-radius: 8px; background: #fff; }
+.rv table { width: 100%; border-collapse: collapse; font-size: 14px; min-width: 420px; }
+.rv th, .rv td { padding: 7px 9px; text-align: left; border-bottom: 1px solid var(--rule); vertical-align: top; }
+.rv th { background: var(--cotton); font-weight: 600; }
+.rv td.ta { font-size: 20px; line-height: 1.3; white-space: nowrap; }
+.rv tr.flag td { background: var(--turmeric-tint); }
+.rv code { font-size: 12px; color: var(--muted); }
+
+.toast {
+  position: fixed; left: 50%; bottom: 100px; transform: translateX(-50%);
+  background: var(--ink); color: #fff; padding: 10px 16px; border-radius: 10px;
+  max-width: min(90vw, 420px); font-size: 15px; z-index: 20; text-align: center;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .stamp { animation: none; }
+  .bar i { transition: none; }
+}
+
+/* ---------- v2: speaking-first additions ---------- */
+.tile.roman { padding: 30px 24px; min-width: min(100%, 250px); line-height: 1.2; text-transform: none; overflow-wrap: break-word; }
+.tile.r1 { font-size: 56px; }
+.tile.r2 { font-size: 40px; }
+.tile.r3 { font-size: 31px; }
+.tile.r4 { font-size: 25px; }
+.ta-line { font-size: 28px; color: var(--maroon); line-height: 1.3; }
+.row-btns { display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; }
+.slow::before { content: '🐢  '; }
+.extra { font: 700 34px/1 var(--font-ta); color: var(--maroon); }
+.rec-zone { display: flex; flex-direction: column; align-items: center; gap: 12px; width: 100%; margin-top: 6px; }
+.say-hint { color: var(--muted); font-size: 15px; text-align: center; }
+.btn.rec { background: var(--indigo); color: #fff; box-shadow: 0 4px 0 #1C2A5C; min-width: 180px; }
+.btn.rec:active:not(:disabled) { box-shadow: 0 1px 0 #1C2A5C; }
+.btn.rec::before { content: '🎙  '; }
+.btn.rec.on::before { content: '⏹  '; }
+.btn.rec.on { animation: pulse 1.2s ease-in-out infinite; }
+@keyframes pulse { 50% { box-shadow: 0 4px 0 #1C2A5C, 0 0 0 8px rgba(43, 63, 135, .25); } }
+.opt .o-rom { display: block; font-weight: 700; }
+.opt .o-en { display: block; font-size: 15px; color: var(--muted); font-weight: 500; }
+.say { font-weight: 700; }
+@media (prefers-reduced-motion: reduce) { .btn.rec.on { animation: none; } }
